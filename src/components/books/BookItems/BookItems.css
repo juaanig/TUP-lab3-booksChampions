@@ -1,0 +1,9 @@
+h2,
+h3 {
+   text-align: center;
+}
+
+h2{
+   color: aliceblue;
+   text-shadow: 2px 2px 1px black;
+}
